@@ -1,0 +1,1 @@
+# archetype-babel-only
